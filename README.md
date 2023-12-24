@@ -1,5 +1,8 @@
 # pypi-Korean-Translations
 
+
+![](https://hosted.weblate.org/widget/pypa/warehouse/ko/svg-badge.svg)
+
 [https://pypi.org/](https://pypi.org/) 사이트의 한국어 번역을 위한 가이드 문서입니다.
 
 오프라인으로 번역을 진행할 수도 있지만, [warehouse](https://hosted.weblate.org/projects/pypa/warehouse/) 웹페이지를 기준으로 번역을 설명합니다.
