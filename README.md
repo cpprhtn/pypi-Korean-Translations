@@ -43,3 +43,10 @@ ex) `WebAuthn` 용어에 대한 번역여부. 별다른 한국어 표현이 없�
 - 일시: 2023.12.24 ~ 12.25
 - 목표: 번역율 50% 달성
 - 참여 멤버: [cpprhtn](https://github.com/cpprhtn) [choo121600](https://github.com/choo121600) [Coalery](https://github.com/Coalery) [kkumtree](https://github.com/kkumtree)
+
+<img src="https://github.com/cpprhtn/pypi-Korean-Translations/assets/63298243/d62c67e9-475c-4d5b-982d-3ba0971e38c6" alt="drawing" height="200"/>
+<img src="https://github.com/cpprhtn/pypi-Korean-Translations/assets/63298243/0a47c947-080b-4346-8980-da39f8c867d2" alt="drawing" height="200"/>
+<img src="https://github.com/cpprhtn/pypi-Korean-Translations/assets/63298243/8aded018-d94d-459c-8002-26f65c8063be" alt="drawing" height="200"/>
+<img src="https://github.com/cpprhtn/pypi-Korean-Translations/assets/63298243/7bd15908-a055-450d-8ab2-97ec878b695e" alt="drawing" height="200"/>
+<img src="https://github.com/cpprhtn/pypi-Korean-Translations/assets/63298243/048c592e-a41f-4203-b855-9ad28922cf6d" alt="drawing" height="200"/>
+<img src="https://github.com/cpprhtn/pypi-Korean-Translations/assets/63298243/72eb7e45-696e-45a8-aae8-11fd0d7a9987" alt="drawing" height="200"/>
