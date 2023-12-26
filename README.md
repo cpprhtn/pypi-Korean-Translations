@@ -35,3 +35,11 @@ ex) `WebAuthn` 용어에 대한 번역여부. 별다른 한국어 표현이 없�
 3. 그래도 번역하기 애매한 문장은 이슈를 남겨 토론해봅시다.
    
 ## 5. 번역하기 힘든 문장이 있다면 [issues](https://github.com/cpprhtn/pypi-Korean-Translations/issues) 에 등록하여 같이 토론해봅시다.
+
+
+---
+
+## 1차 번역 모임 (오프라인)
+- 일시: 2023.12.24 ~ 12.25
+- 목표: 번역율 50% 달성
+- 참여 멤버: [cpprhtn](https://github.com/cpprhtn) [choo121600](https://github.com/choo121600) [Coalery](https://github.com/Coalery) [kkumtree](https://github.com/kkumtree)
