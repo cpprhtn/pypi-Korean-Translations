@@ -68,6 +68,7 @@ ex) `WebAuthn` 용어에 대한 번역여부. 별다른 한국어 표현이 없�
     </tr>
 </table>
 
+#### 활동 사진:
 <img src="https://github.com/cpprhtn/pypi-Korean-Translations/assets/63298243/d62c67e9-475c-4d5b-982d-3ba0971e38c6" alt="drawing" height="200"/>
 <img src="https://github.com/cpprhtn/pypi-Korean-Translations/assets/63298243/0a47c947-080b-4346-8980-da39f8c867d2" alt="drawing" height="200"/>
 <img src="https://github.com/cpprhtn/pypi-Korean-Translations/assets/63298243/8aded018-d94d-459c-8002-26f65c8063be" alt="drawing" height="200"/>
